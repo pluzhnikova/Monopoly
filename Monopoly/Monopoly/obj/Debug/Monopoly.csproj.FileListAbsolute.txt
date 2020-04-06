@@ -1,0 +1,12 @@
+C:\Users\0\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\0\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\0\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\0\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\0\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.Form1.resources
+C:\Users\0\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\0\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\0\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\0\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\0\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.Form2.resources
+C:\Users\0\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.Form3.resources
+C:\Users\0\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.Form4.resources

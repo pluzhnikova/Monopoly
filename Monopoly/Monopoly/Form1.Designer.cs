@@ -45,7 +45,6 @@
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.BackgroundImage = global::Monopoly.Properties.Resources.monopoly5;
             this.ClientSize = new System.Drawing.Size(1039, 603);
             this.Controls.Add(this.button1);
             this.DoubleBuffered = true;

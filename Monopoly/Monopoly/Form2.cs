@@ -23,7 +23,7 @@ namespace Monopoly
         {
             InitializeComponent();
 
-            Bitmap buf = new Bitmap("C:\\Users\\0\\Desktop\\monopoly.jpg");     
+            Bitmap buf = new Bitmap("monopoly.jpg");     
 
             piece1.X = 525; piece1.Y = 500;
             piece2.X = 525; piece2.Y = 550;
@@ -36,7 +36,7 @@ namespace Monopoly
         private void button1_Click(object sender, EventArgs e)
         {
 
-            Bitmap buff = new Bitmap("C:\\Users\\0\\Desktop\\monopoly.jpg");
+            Bitmap buff = new Bitmap("monopoly.jpg");
             Graphics a = Graphics.FromImage(buff);
             pictureBox1.Image = buff;
             p1.TakeTurn(piece1);

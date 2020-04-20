@@ -87,6 +87,7 @@ namespace Monopoly
                 {
                     if (newLoc.company == false && newLoc.amountOfFileals < 4 && ((districts[newLoc.color] == 2 && (newLoc.color == "brown") || (newLoc.color == "dark blue")) || (districts[newLoc.color] == 3 && (newLoc.color != "brown" || newLoc.color != "dark blue"))))
                     {
+                        
                         newLoc = new Filial(newLoc);
                         newLoc.amountOfFileals++;
                     }
